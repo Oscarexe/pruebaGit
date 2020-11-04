@@ -1,3 +1,25 @@
+* {
+  margin: 1000;
+  padding: 1000;
+}
+
+ion-title{
+  color: #faf9f9;
+  text-align: center;
+}
+ion-card{
+  text-align: center;
+  color: #0c0c0c;
+  background:  #bfcdce;
+  
+}
+
+ion-grid {
+
+  background-color: #8a8888;
+}
+
+
 #container {
   text-align: center;
 
@@ -6,11 +28,13 @@
   right: 0;
   top: 50%;
   transform: translateY(-50%);
+ 
 }
 
 #container strong {
   font-size: 20px;
   line-height: 26px;
+
 }
 
 #container p {
@@ -25,3 +49,4 @@
 #container a {
   text-decoration: none;
 }
+
